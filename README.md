@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Computer Vision and Recurrent Neural Networks
 - 💞️ I’m looking to collaborate on AI applied to health projects
-- 📫 You can reach me at vinncent.alii@gmail.com
+- 📫 You can reach me at vicente.alomelin@gmail.com
 
 <!---
 vince96mx/vince96mx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
